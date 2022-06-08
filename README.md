@@ -18,13 +18,12 @@ This is a challenge done as part of a Udemy course on Web development.
 
 ### The challenge
 
-The challenge is to build out an Advice Generator App using the [Advice Slip API](http://api.adviceslip.com) and get is looking as close to the design as possible.
+The challenge is to build out a Drum Kit App .
 
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Generate a new piece of advice by clicking the dice icon
+- Generate sounds by clicking each of the drum buttons.
 
 ### Screenshot
 
